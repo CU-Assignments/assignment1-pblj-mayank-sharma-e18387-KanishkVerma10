@@ -1,0 +1,63 @@
+##PROBLEM 1 - String Analyzer
+
+###Sample Input :
+Enter a string: Kanishk Verma 1009
+
+###Sample Output :
+Vowels: 4
+Consonants: 8
+Digits: 4
+Special Characters: 2
+
+
+##PROBLEM 2 - Matrix Operations
+###Sample Input:
+
+Enter the number of rows for Matrix 1:
+2
+Enter the number of columns for Matrix 1:
+2
+Enter the elements of Matrix 1:
+1
+2
+3
+4
+
+Enter the number of rows for Matrix 2:
+2
+Enter the number of columns for Matrix 2:
+2
+Enter the elements of Matrix 2:
+5
+6
+7
+8
+
+###Sample Output:
+
+Addition:
+6 8
+10 12
+
+Subtraction:
+-4 -4
+-4 -4
+
+Multiplication:
+19 22
+43 50
+
+##PROBLEM 3 - Banking System
+###Sample Input:
+
+Create Account:
+Name: Kanishk Verma
+Account Number: 12345
+Initial Balance: 10000
+
+Deposit: 1200
+Withdraw: 3000
+
+###Sample Input:
+Deposit successful! Current Balance: 11200
+Withdrawal successful! Current Balance: 8200
